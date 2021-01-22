@@ -16,12 +16,6 @@ Notes lets you create, edit and delete notes. You may also add or delete tags fo
 
 * Communicates with my custom Rails API to store and update notes: [View the API Repo](https://github.com/jwmunn/notes-rails-api)
 
-## Demo
-You can see a running version of the application at
-[https://notes-react-app.herokuapp.com/][demo].
-
-[demo]: https://notes-react-app.herokuapp.com/
-
 ## Screenshots
 ![Notes Homepage](/notes-index.png "Notes Homepage")
 ![Individual Note](/notes-show.png "Individual Note")

@@ -40,4 +40,5 @@ function chooseBestSum(t, k, ls) {
     recurseTowns();
     return biggestCount || null;
 }
- chooseBestSum(163, 3)
+
+ chooseBestSum(163, 3, xl)
